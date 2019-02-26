@@ -1,4 +1,4 @@
-# Downstream-Effects-of-Upstream-Causes
+# Nonparametric-Bayes-Models-of-Fiber-Curves-Connecting-Brain-Regions
 
 # Author Contributions Checklist Form
 
